@@ -9,8 +9,11 @@
 # 功能表
 
 CTRL+SHIFT+Z	暂停/播放
+
 CTRL+SHIFT+↑	音量加
+
 CTRL+SHIFT+↓	音量减
+
 
 # 如何设置开机自启
 
